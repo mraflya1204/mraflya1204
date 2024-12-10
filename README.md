@@ -2,7 +2,7 @@
 
 🌱 Currently learning C, Java, and many others!
 
-📚 Informatics Engineering at Institut Teknologi Sepuluh Nopember
+📚 Informatics Engineering student at Institut Teknologi Sepuluh Nopember
 
 I'm an avid rythm game and gacha gamer :)
 
