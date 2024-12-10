@@ -7,6 +7,7 @@
 I'm an avid rythm game and gacha gamer :)
 
 ### 📊 My languages
+
 ![mraflya1204's GitHub stats](https://github-readme-stats-seven-omega-91.vercel.app/api/top-langs/?username=mraflya1204&exclude_repo=CertainGachaPS)
 
 <!---
