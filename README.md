@@ -8,7 +8,7 @@ I'm an avid rythm game and gacha gamer :)
 
 ### 📊 My languages
 
-![mraflya1204's GitHub stats](https://github-readme-stats-seven-omega-91.vercel.app/api/top-langs/?username=mraflya1204&exclude_repo=CertainGachaPS,github-readme-stats)
+![mraflya1204's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mraflya1204&exclude_repo=CertainGachaPS,github-readme-stats)
 
 <!---
 mraflya1204/mraflya1204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
