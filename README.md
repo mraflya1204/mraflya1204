@@ -1,9 +1,13 @@
-- 👋 Hi, I’m Muhammad Rafly Abdillah
-- 🌱 I’m currently learning C, Java, and many others!
-- 📚 Currently studying at Institut Teknologi Sepuluh Nopember on Informatics Engineering Course
-- I'm an avid rythm game and gacha gamer :)
+👋 Hi, I’m Muhammad Rafly Abdillah
 
-[![mraflya1204's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mraflya1204)](https://github.com/anuraghazra/github-readme-stats)
+🌱 Currently learning C, Java, and many others!
+
+📚 Informatics Engineering at Institut Teknologi Sepuluh Nopember
+
+I'm an avid rythm game and gacha gamer :)
+
+### 📊 My languages
+![mraflya1204's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mraflya1204&exclude_repo=CertainGachaPS)
 
 <!---
 mraflya1204/mraflya1204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
