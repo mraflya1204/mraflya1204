@@ -1,9 +1,3 @@
-👋 Hi, I’m Muhammad Rafly Abdillah
-
-🌱 Currently learning C, Java, and many others!
-
-📚 Informatics Engineering student at Institut Teknologi Sepuluh Nopember
-
 I'm an avid rythm game and gacha gamer :)
 
 ### 📊 My languages
