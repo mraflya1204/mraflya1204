@@ -1,1 +1,1 @@
-I play rythm game and gacha games.
+I develop things
